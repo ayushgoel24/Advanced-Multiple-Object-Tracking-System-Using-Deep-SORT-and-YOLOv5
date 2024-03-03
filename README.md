@@ -89,7 +89,7 @@ The project demonstrates high-performance object tracking with the integration o
 <!-- | Image 1 | Image 2 | -->
 <!-- |---------|---------| -->
 <!-- | ![Image 1](static/imgs/vehicle-counting.png) | ![Image 2](static/imgs/vehicle-counting-in-out.png) | -->
-<img src="static/imgs/vehicle-counting.png" style="width: 48%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="static/imgs/vehicle-counting-in-out.png" style="width: 48%;">
+<img src="static/imgs/vehicle-counting.png" style="width: 48%;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="static/imgs/vehicle-counting-in-out.png" style="width: 48%;">
 
 
 
