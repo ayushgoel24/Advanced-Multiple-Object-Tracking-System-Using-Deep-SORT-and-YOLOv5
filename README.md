@@ -83,15 +83,14 @@ A full list of dependencies is available in the requirements.txt file.
 
 The project demonstrates high-performance object tracking with the integration of YOLOv7 and DeepSORT. The results include accurately tracked objects across video sequences, showcasing the system's ability to handle occlusions, varying object speeds, and different lighting conditions.
 
-
-
-### Output GIF of the visual odometry
 ![Output](static/video/result.gif)
 
 #### Vechicles Detection & Tracking
 <!-- | Image 1 | Image 2 | -->
-|---------|---------|
-| ![Image 1](static/imgs/vehicle-counting.png) | ![Image 2](static/imgs/vehicle-counting-in-out.png) |
+<!-- |---------|---------| -->
+<!-- | ![Image 1](static/imgs/vehicle-counting.png) | ![Image 2](static/imgs/vehicle-counting-in-out.png) | -->
+<img src="static/imgs/vehicle-counting.png" style="width: 48%;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="static/imgs/vehicle-counting-in-out.png" style="width: 48%;">
+
 
 
 ## License
