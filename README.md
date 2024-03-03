@@ -8,12 +8,12 @@ This repository contains code for implementing Visual Odometry using stereo imag
 
 ## Table of Contents
 - [Overview](#overview)
+- [Features](#features)
 - [Pipeline](#pipeline)
 - [Key Concepts Used](#key-concepts-used)
-- [Edge Cases](#edge-cases)
-- [Scope of Improvements](#scope-of-improvements)
+- [Getting Started](#getting-started)
+- [Structure](#structure)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Results](#results)
 - [License](#license)
 - [Contact](#contact)
@@ -86,7 +86,7 @@ The project demonstrates high-performance object tracking with the integration o
 
 
 ### Output GIF of the visual odometry
-![Output](static/video/result.mp4)
+![Output](static/video/result.gif)
 
 ## Things to take care of
 1. Use 3rd party libraries for version compatibility
