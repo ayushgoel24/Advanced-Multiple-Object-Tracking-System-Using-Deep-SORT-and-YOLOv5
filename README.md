@@ -88,13 +88,11 @@ The project demonstrates high-performance object tracking with the integration o
 ### Output GIF of the visual odometry
 ![Output](static/video/result.gif)
 
-## Things to take care of
-1. Use 3rd party libraries for version compatibility
-2. May need to run commands (or add in .bashrc):
-```
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
-export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libffi.so.7
-```
+#### Vechicles Detection & Tracking
+<!-- | Image 1 | Image 2 | -->
+|---------|---------|
+| ![Image 1](static/imgs/vehicle-counting.png) | ![Image 2](static/imgs/vehicle-counting-in-out.png) |
+
 
 ## License
 
