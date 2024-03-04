@@ -1,4 +1,4 @@
-# Advanced-Multiple-Object-Tracking-System-Using-Deep-SORT-and-YOLOv8
+# Advanced-Multiple-Object-Tracking-System-Using-Deep-SORT-and-YOLOv7
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Issues](https://img.shields.io/github/issues/ayushgoel24/Stereo-Visual-Odometry.svg)](https://github.com/ayushgoel24/Advanced-Multiple-Object-Tracking-System-Using-Deep-SORT-and-YOLOv7/issues)
